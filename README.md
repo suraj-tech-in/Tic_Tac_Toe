@@ -24,3 +24,13 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. T
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/suraj-tech-in/Tic_Tac_Toe.git
+
+## Contributing
+
+if you would like to contribute to the project, please follow these steps:
+
+ 1.   Fork the repository.
+ 2.   Create a new branch for your feature: `git checkout -b feature-name`
+ 3.   Commit your changes: `git commit -m 'Add new feature'`
+ 4.   Push to the branch: `git push origin feature-name`
+ 5.   Submit a pull request.
