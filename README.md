@@ -7,7 +7,6 @@ A simple HTML,CSS & JavaScript implementation of Tic Tac Toe game.
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Description
