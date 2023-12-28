@@ -1,5 +1,7 @@
 # Tic Tac Toe Game
 
+A simple HTML,CSS & JavaScript implementation of Tic Tac Toe game.
+
 ## Table of Contents
 - [Description](#description)
 - [Demo](#demo)
